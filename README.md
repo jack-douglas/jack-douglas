@@ -7,5 +7,5 @@ Currently I'm a Co-Founder & Software Engineer at [**Notify Technology, Inc.**](
 Twitter: [@Douglas_Jack_](https://twitter.com/douglas_jack_) \
 Email: [me@jack.email](mailto:me@jack.email)
 
-**Here are my most used languages**
+**Here are my most used languages** \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
