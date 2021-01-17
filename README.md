@@ -5,4 +5,4 @@ Twitter: [@jackenv](https://twitter.com/env) \
 Email: [me@jack.email](mailto:me@jack.email)
 
 **Here are my most used languages** \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-douglas&layout=compact" />
