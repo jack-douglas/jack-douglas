@@ -1,5 +1,5 @@
 Oh Hello, 
-I'm Jack a 21 year old, self-taught, software engineer from the UK.
+I'm Jack a 22 year old, self-taught, software engineer from the UK.
 
 Twitter: [@jackenv](https://twitter.com/env) \
 Email: [me@jack.email](mailto:me@jack.email)
