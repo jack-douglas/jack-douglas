@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A 22 year old, self-taught, software engineer from the UK.</h3>
+<h3 align="center">A 23 year old, self-taught, software engineer from the UK.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
